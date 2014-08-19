@@ -2,10 +2,11 @@
 \alias{twoQtlDS}
 \title{Compute mean, sd and size for two quantitaive variables comparison}
 \usage{
-twoQtlDS(variables = NULL, data = NULL)
+twoQtlDS(formula = NULL, data = NULL)
 }
 \arguments{
-  \item{variables}{a list of two quantitative variables.}
+  \item{formuala}{a formula that that specifies the two
+  variables}
 }
 \value{
 a numeric vector, the mean, sd and lengths of each of the

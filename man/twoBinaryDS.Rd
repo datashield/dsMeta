@@ -2,10 +2,11 @@
 \alias{twoBinaryDS}
 \title{Compute cells frequencies for two dichotomous variables comparison}
 \usage{
-twoBinaryDS(variables = NULL, data = NULL)
+twoBinaryDS(formula = NULL, data = NULL)
 }
 \arguments{
-  \item{variables}{a list that holds the two variables.}
+  \item{formula}{a formula that that indicates the outcome
+  and explanatory variable}
 
   \item{data}{the dataframe that holds the variables.}
 }
