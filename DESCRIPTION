@@ -1,0 +1,9 @@
+Package: dsMeta
+Maintainer: <datashield@obiba.org>
+Author: <datashield@obiba.org>
+Version: 1.0.0
+License: GPL-3
+Title: DataSHIELD server site functions for meta-analyses
+Description: DataSHIELD server site functions for meta-analyses
+AggregateMethods: twoBinaryDS,
+    twoQtlDS
