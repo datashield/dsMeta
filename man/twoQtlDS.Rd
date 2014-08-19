@@ -5,8 +5,7 @@
 twoQtlDS(variables = NULL, data = NULL)
 }
 \arguments{
-  \item{formula}{a formula that specifies the outcome and
-  the covariate.}
+  \item{variables}{a list of two quantitative variables.}
 }
 \value{
 a numeric vector, the mean, sd and lengths of each of the

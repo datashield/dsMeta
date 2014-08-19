@@ -6,7 +6,7 @@
 #' can be used for example in the calculations of: log relative risk, log odds ratio and 
 #' risk difference.
 #' @param variables a list that holds the two variables.
-#' @apram data the dataframe that holds the variables.
+#' @param data the dataframe that holds the variables.
 #' @return a numeric vector, the values 2x2 contingency table.
 #' @author Gaye, A.
 #' @export

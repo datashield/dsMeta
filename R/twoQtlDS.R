@@ -4,7 +4,7 @@
 #' @details generates a contingency table and puts the mean, sd and length values in a vector. 
 #' The ouput of this function can be used for example in the calculations of: raw mean difference,
 #' standardized mean difference and other measures.
-#' @param formula a formula that specifies the outcome and the covariate.
+#' @param variables a list of two quantitative variables.
 #' @apram data the dataframe that holds the variables.
 #' @return a numeric vector, the mean, sd and lengths of each of the two vectors.
 #' @author Gaye, A.

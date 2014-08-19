@@ -6,6 +6,8 @@ twoBinaryDS(variables = NULL, data = NULL)
 }
 \arguments{
   \item{variables}{a list that holds the two variables.}
+
+  \item{data}{the dataframe that holds the variables.}
 }
 \value{
 a numeric vector, the values 2x2 contingency table.
