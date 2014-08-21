@@ -1,2 +1,2 @@
-export(twoBinaryDS)
-export(twoQtlDS)
+export(estComp2binDS)
+export(estcomp2qtlDS)

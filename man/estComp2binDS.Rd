@@ -1,8 +1,8 @@
-\name{twoBinaryDS}
-\alias{twoBinaryDS}
+\name{estComp2binDS}
+\alias{estComp2binDS}
 \title{Compute cells frequencies for two dichotomous variables comparison}
 \usage{
-twoBinaryDS(formula = NULL, data = NULL)
+estComp2binDS(formula = NULL, data = NULL)
 }
 \arguments{
   \item{formula}{a formula that that indicates the outcome

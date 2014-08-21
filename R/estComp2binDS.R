@@ -11,7 +11,7 @@
 #' @author Gaye, A.
 #' @export
 #'
-twoBinaryDS <- function(formula=NULL,data=NULL){
+estComp2binDS <- function(formula=NULL,data=NULL){
   
   # this filter sets the minimum number of observations that are allowed 
   nfilter <- 5
