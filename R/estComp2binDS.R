@@ -14,7 +14,7 @@
 estComp2binDS <- function(formula=NULL,data=NULL){
   
   # this filter sets the minimum number of observations that are allowed 
-  nfilter <- 5
+  nfilter <- setFilterDS()
   
   # allow for the variable to be accessed individually 
   if(!(is.null(data))){ attach(data) }
