@@ -10,7 +10,7 @@
 #' @author Gaye, A.
 #' @export
 #'
-estcomp2qtlDS <- function(formula=NULL,data=NULL){
+estComp2qtlDS <- function(formula=NULL,data=NULL){
   
   # this filter sets the minimum number of observations that are allowed 
   nfilter <- setFilterDS()

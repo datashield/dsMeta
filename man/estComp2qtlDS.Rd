@@ -1,8 +1,8 @@
-\name{estcomp2qtlDS}
-\alias{estcomp2qtlDS}
+\name{estComp2qtlDS}
+\alias{estComp2qtlDS}
 \title{Compute mean, sd and size for two quantitaive variables comparison}
 \usage{
-estcomp2qtlDS(formula = NULL, data = NULL)
+estComp2qtlDS(formula = NULL, data = NULL)
 }
 \arguments{
   \item{formuala}{a formula that that specifies the two
